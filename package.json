@@ -15,19 +15,18 @@
     "react-google-recaptcha": "^3.1.0",
     "react-icons": "^5.5.0",
     "react-router-dom": "^6.8.1",
-    "react-scripts": "^3.0.1",
+    "react-scripts": "^5.0.1",
     "socket.io-client": "^4.8.1",
     "stream-http": "^3.2.0",
     "url": "^0.11.4",
     "util": "^0.12.5"
   },
   "scripts": {
-  "start": "react-scripts start",
-  "build": "react-scripts build",
-  "test": "react-scripts test",
-  "eject": "react-scripts eject"
-},
-
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
